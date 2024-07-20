@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshi Kala</h1>
 <h3 align="center">An aspiring web developer from India</h3>
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" style="margin: 0 auto">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshikala&label=Profile%20views&color=0e75b6&style=flat" alt="harshikala" /> </p>
 
