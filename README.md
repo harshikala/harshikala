@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, DSA in C, MySQL**
 
-- 📫 How to reach me **harshikala@gmail.com**
+- 📫 How to reach me **harshikala.hk@gmail.com**
 
 - ⚡ Fun fact **I found my passion for web development because, as much as I love art as a hobby, my attempts at digital art were, well, let's just say coding turned out to be my canvas instead!**
 
